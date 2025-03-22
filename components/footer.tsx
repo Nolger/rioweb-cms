@@ -139,7 +139,7 @@ export function Footer() {
             <ul className="space-y-3">
               <li className="flex items-start">
                 <Phone className="h-4 w-4 mr-2 mt-0.5" />
-                <span className="text-sm text-muted-foreground">+52 123 456 7890</span>
+                <span className="text-sm text-muted-foreground">+57 123 456 7890</span>
               </li>
               <li className="flex items-start">
                 <Mail className="h-4 w-4 mr-2 mt-0.5" />
@@ -147,7 +147,7 @@ export function Footer() {
               </li>
               <li className="flex items-start">
                 <MapPin className="h-4 w-4 mr-2 mt-0.5" />
-                <span className="text-sm text-muted-foreground">Ciudad de México, México</span>
+                <span className="text-sm text-muted-foreground">Riohacha, Colombia</span>
               </li>
             </ul>
           </div>
@@ -172,4 +172,3 @@ export function Footer() {
     </footer>
   )
 }
-

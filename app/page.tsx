@@ -22,7 +22,7 @@ export default function HomePage() {
                   impulsan tu negocio.
                 </p>
               </div>
-              <div className="flex flex-col gap-2 min-[400px]:flex-row">
+              <div className="flex flex-col gap-2 min-[450px]:flex-row">
                 <Button asChild size="lg">
                   <Link href="/contacto">
                     Solicitar Cotización
